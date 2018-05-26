@@ -3,7 +3,7 @@ minimal debian image for espressobin
 
 ## write image to disk
 ```
-\# mount usb or sd card to /media
+# mount usb or sd card to /media
 cd /media
 git clone https://github.com/Bl00dsoul/espressobin-debian.git
 cat debian-stretch-min-fs.tar.bz2* | tar xj
